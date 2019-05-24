@@ -1,5 +1,5 @@
 # Base configs
-baseurl: "[20daban58].github.io/photography"
+baseurl: "https://20daban58.github.io/photography/"
 image_fulls_loc: "/images/fulls"
 image_thumbs_loc: "/images/thumbs"
 google_analytics: "UA-46465113-2"
